@@ -6,7 +6,7 @@ import java.util.Iterator;
  * ClassName ListUtil
  * Description TODO
  *
- * @Author ts
+ * @Author liuwei
  * @Date 2022/7/29 下午12:02
  * @Version 1.0
  **/
